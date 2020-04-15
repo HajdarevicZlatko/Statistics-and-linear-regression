@@ -1,2 +1,2 @@
 # Statistika-Ipython
-Statisticka analiza cene na osnovu kvadrature u Engleskoj opstini
+Statistical processing of conditional probability and linear regression real estate data
